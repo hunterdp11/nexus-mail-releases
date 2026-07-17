@@ -6,7 +6,7 @@
 
   <p>
     <a href="https://github.com/hunterdp11/nexus-mail-releases/releases/latest"><img src="https://img.shields.io/github/v/tag/hunterdp11/nexus-mail-releases?label=release&style=for-the-badge&color=00E5CC" alt="Latest Release" /></a>
-    <a href="https://github.com/hunterdp11/nexus-mail-releases/releases"><img src="https://img.shields.io/github/downloads/hunterdp11/nexus-mail-releases/total?style=for-the-badge&color=8A2BE2" alt="Total Downloads" /></a>
+    <a href="https://github.com/hunterdp11/nexus-mail-releases/releases"><img src="https://img.shields.io/github/downloads/hunterdp11/nexus-mail-releases/total?style=for-the-badge&color=8A2BE2&v=1" alt="Total Downloads" /></a>
     <img src="https://img.shields.io/badge/platform-Android-3DDC84?style=for-the-badge&logo=android" alt="Platform" />
     <a href="https://github.com/hunterdp11/nexus-mail-releases/blob/main/LICENSE"><img src="https://img.shields.io/github/license/hunterdp11/nexus-mail-releases?style=for-the-badge" alt="License" /></a>
   </p>
